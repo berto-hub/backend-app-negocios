@@ -1,0 +1,28 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "functions/index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "firebase-functions": "^3.15.7",
+    "firebase-admin": "^10.0.0",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Negocios360/Negocios360.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Negocios360/Negocios360.github.io/issues"
+  },
+  "homepage": "https://github.com/Negocios360/Negocios360.github.io#readme"
+}
